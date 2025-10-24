@@ -1,9 +1,9 @@
 {
   "name": "mail",
   "version": "1.0.0",
-  "main": "mailer_test.js",
+  "main": "index.js",
   "scripts": {
-    "start": "mailer_test.js",
+    "start": "index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
